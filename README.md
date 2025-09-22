@@ -2,8 +2,8 @@
 Speaker code for Raspberry Pi.
 
 1. Get LLM to run Locally on Raspberry Pi.
-1a) Install a local llm that could run on the pi.
-1b) Investigate if the llm model could reach hardware aspects of raspberry pi and make specific changes.
+1a) Install a local llm that could run on the pi. (Done)
+1b) Investigate if the llm model could reach hardware aspects of raspberry pi and make specific changes. (Done)
 
 2. Get voice activation to run on Raspberry Pi.
 2a) purchase an audio unit, or an amplifier that could allow for a mic and speaker input/output.
